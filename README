@@ -1,0 +1,6 @@
+1. docker pull arsalanyaghoobi/sentiment_streamlit_env:stream
+2. docker run -p 8501:8501 arsalanyaghoobi/sentiment_streamlit_env:stream
+3. Find the page at this URL:
+   Local URL: http://localhost:8501
+   Network URL: http://192.168.0.100:8501
+4. For deleting the database, press delete the database for **two** times.
